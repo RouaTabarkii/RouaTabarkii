@@ -48,8 +48,8 @@ and solving real-world problems using AI.
 
 ## 🚀 Recent Projects
 
-- 👁️ [**AI-Tutor**](https://github.com/RouaTabarkii/AI-Tutor-Agent): An AI-powered application that uses RAG and LLMs to answer questions about uploaded PDF documents (especially for students)-
--  🤖 [**Digital eyes**](https://github.com/RouaTabarkii/Digital-Eyes): A computer vision application for visual assistance using deep learning and object detection.
+- 🤖[**AI-Tutor**](https://github.com/RouaTabarkii/AI-Tutor-Agent): An AI-powered application that uses RAG and LLMs to answer questions about uploaded PDF documents (especially for students)-
+- 👁️[**Digital eyes**](https://github.com/RouaTabarkii/Digital-Eyes): A computer vision application for visual assistance using deep learning and object detection.
 
 ## 🤝 Connect With Me
 
