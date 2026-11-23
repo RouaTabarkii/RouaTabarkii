@@ -30,7 +30,3 @@ and solving real-world problems using AI.
 - 📍Tunisia
 
 
-
-<div align="center">
-  <i>Always learning, building, and exploring AI.</i>
-</div>
