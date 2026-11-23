@@ -25,7 +25,7 @@ and solving real-world problems using AI.
 
 - AI & Data Science Engineering
 - Interested in Machine Learning, Deep Learning,
-  Computer Vision and LLMs
+  Computer Vision, LLMs , RAG and NLP
 -  Building practical Python projects
 - 📍Tunisia
 
